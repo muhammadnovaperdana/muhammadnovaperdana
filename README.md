@@ -1,7 +1,7 @@
 <!-- NAVIGASI BAHASA -->
 <div align="right">
 
-| **Accounting** | [🇬🇧 English](#-english) |
+| **Akuntansi** | [🇬🇧 English](#-english) |
 |---|---|
 
 </div>
