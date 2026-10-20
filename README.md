@@ -1,16 +1,31 @@
-## Hi there 👋
+<!-- TNAVIGASI BAHASA -->
+<div align="right">
+  <a href="#-versi-bahasa-indonesia">🇮🇩 Bahasa Indonesia</a> | 
+  <a href="#-english-version">🇬🇧 English</a>
+</div>
 
-<!--
-**muhammadnovaperdana/muhammadnovaperdana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
+# 🇮🇩 Bahasa Indonesia
 
-Here are some ideas to get you started:
+## Halo, Saya Muhammad Nova Perdana!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seorang Pelajar PPLG yang membangun keahlian lintas bidang, terutama di akuntansi, keuangan dan ekonomi
+
+### 🛠️ Alat & Teknologi yang Saya Gunakan
+![Excel](https://shields.io)
+![PowerPoint](https://shields.io)
+![Word](https://shields.io)
+![Power BI](https://shields.io)
+
+***
+# 🇬🇧 English
+
+## Hello, my name is Muhammad Nova Perdana!
+
+I am PPLG Student, building cross discipline expertise, especially at accounting, finance, and economics
+
+### 🛠️ Tools & Tech i utilize
+![Excel](https://shields.io)
+![PowerPoint](https://shields.io)
+![Word](https://shields.io)
+![Power BI](https://shields.io)
