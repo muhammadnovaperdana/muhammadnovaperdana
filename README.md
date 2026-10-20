@@ -1,6 +1,10 @@
 <!-- NAVIGASI BAHASA -->
+<div align="right">
+
 | **Accounting** | [🇬🇧 English](#-english) |
 |---|---|
+
+</div>
 
 <br><br> <hr>
 
@@ -60,8 +64,12 @@ Mengembangkan keahlian yang menghubungkan akuntansi, keuangan, dan ekonomi denga
 <br> <br>
 
 <!-- NAVIGASI BAHASA -->
+<div align="right">
+
 | **Accounting** | [🇮🇩 Bahasa Indonesia](#-bahasa-indonesia) |
 |---|---|
+
+</div>
 
 <br> <br> <hr>
 
